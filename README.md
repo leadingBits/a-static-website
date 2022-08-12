@@ -1,6 +1,6 @@
-<pre>
-
 # A Static Website
+
+<pre>
 
 A static website for just about any purpose. 
 
